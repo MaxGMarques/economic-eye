@@ -1,0 +1,13 @@
+pandas
+numpy
+requests
+scikit-learn
+xgboost
+lightgbm
+optuna
+shap
+statsmodels
+plotly
+streamlit
+sqlalchemy
+matplotlib
